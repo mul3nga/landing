@@ -1,0 +1,12 @@
+.btn-yours{
+  background-image: linear-gradient(red, yellow);
+  padding: 10px 20px;
+  border-radius: 25px;
+  border: 1px solid black;
+  padding-top: 10px;
+}
+
+.btn-yours:hover{
+  background-image: linear-gradient(rgb(47, 0, 255), rgb(246, 246, 246));
+  color: black;
+}
